@@ -1,47 +1,32 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shams%20Shaban&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 <h1 align="center">Hi 👋, I'm Shams Shaban</h1>
 <h3 align="center">Backend Developer</h3>
 
----
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Backend+Developer;C%23+Developer;.NET+Learner;Problem+Solver;Always+Learning&center=true&width=500&height=45">
+</p>
 ### 👩‍💻 About Me
-- 💻 Passionate about **Backend Development**
-- 🌱 Currently learning more about **Backend Systems and Software Engineering**
-- 🧠 Interested in **Algorithms, Data Structures, and System Design**
-- ⚡ I enjoy solving problems and building logical systems
 
----
+- 💻 Backend Developer passionate about building systems
+- 🧠 Love algorithms and problem solving
+- ⚙️ Interested in scalable backend architectures
+- 📚 Currently improving my skills in software engineering
+### 🛠 Tech Stack
 
-### 🛠️ Languages & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,mysql,git,github,dotnet" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cs,cpp,java,python,mysql,git,github,dotnet,vscode"/>
 </p>
-
----
-
 ### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShamsShaban&show_icons=true&theme=tokyonight"/>
 </p>
 
----
-
-### 🔥 GitHub Streak
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShamsShaban&layout=compact&theme=tokyonight"/>
 </p>
-
----
-
-### 🚀 Projects
-Coming soon...
-
----
-
-### 📫 Connect with me
-<p>
-<a href="https://github.com/YOUR_USERNAME">GitHub</a>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight"/>
 </p>
+![snake gif](https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg)
+
